@@ -5,7 +5,6 @@
 ### Connect with me:
 
 [<img align="left" alt="VictorMayorov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="VictoMayorov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 <br />
 
@@ -25,9 +24,8 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=webm0fe&show_icons=true" />
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webm0fe&langs_count=8&layout=compact" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vxmio&show_icons=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxmio&langs_count=8&layout=compact" />
 
-[website]: https://vmayoroff.ru/
-[vk]: https://vk.com/victor.mayorov
+[website]: https://vxmio.com/
 [telegram]: https://t.me/victor_mayorov
